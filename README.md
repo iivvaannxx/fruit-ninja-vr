@@ -37,6 +37,23 @@
 
 ## 📖 Introduction
 
+This is a game I created for a college subject where we were tasked to create a virtual-reality game using Unity. While thinking about what to create I stumbled upon a tutorial of a [popular VR game developer](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw) on how to slice objects in VR. After that the idea came up. As a side note, the video was on Patreon (which I was a supporter of), not YouTube, you may not find in his YouTube channel.
+
+> [!IMPORTANT]
+> The game uses the **Oculus** SDK, so you will need an Oculus headset to play it. 
+
+As the player, you will have to slice the fruits that are thrown at you using the controllers. Will you be able to slice them all? 🍉🔪
+
+## 🛠️ Installation
+
+Packaging a game for the Oculus Quest was a bit cumbersome when I developed this, so to facilitate the installation process I decided to only create a Windows build. There is no APK available to install directly on the Oculus Quest. 
+
+You only need to download the game on the [releases page](https://github.com/iivvaannxx/fruit-ninja-vr/releases/tag/1.0.0) and run the executable file. The game will open in VR mode, so make sure you have your Oculus headset connected to your computer. Here is a [step by step guide](https://www.uploadvr.com/how-to-play-pc-vr-oculus-quest-2/) on how to play VR games from your computer on the Oculus Quest (Oculus Link is required).
+
+## 🎮 How to Play
+
+### 
+
 
 ## 📜 License
 
@@ -44,6 +61,6 @@ The Fruit Ninja VR Clone © 2022 by Ivan Porto Wigner is licensed under CC BY-NC
 
 ## 🎬 Demo
 
-Recorded content when using virtual reality headsets feels very different from the actual experience, because everything moves with the head movement, which can cause motion sickness. Aside from that, when I recorded this, I didn't use movement stabilization (didn't know I could), so the video is a bit shaky. But it gives a good idea of how the game works.
+Recorded content when using virtual reality headsets feels very different from the actual experience, because everything moves with the head movement, which can cause motion sickness. Aside from that, when I recorded this, I didn't use movement stabilization (didn't know I could), so the video is a bit shaky. But it gives a good idea of how the game works. I am very bad at the game, so don't judge me. 😅
 
 You can watch a demo gameplay on this link: [https://youtu.be/RZieBhuECZY](https://youtu.be/RZieBhuECZY)
