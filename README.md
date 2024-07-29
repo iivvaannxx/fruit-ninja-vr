@@ -37,7 +37,7 @@
 
 ## 📖 Introduction
 
-This is a game I created for a college subject where we were tasked to create a virtual-reality game using Unity. While thinking about what to create I stumbled upon a tutorial of a [popular VR game developer](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw) on how to slice objects in VR. After that the idea came up. As a side note, the video was on Patreon (which I was a supporter of), not YouTube, you may not find in his YouTube channel.
+This is a game I created for a college subject where we were tasked to create a virtual-reality game using Unity. While thinking about what to create I stumbled upon a tutorial of a [popular VR game developer](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw) on how to slice objects in VR. After that the idea came up. As a side note, the video was on Patreon (which I was a supporter of), not YouTube, you may not find it in his YouTube channel.
 
 > [!IMPORTANT]
 > The game uses the **Oculus** SDK, so you will need an Oculus headset to play it. 
