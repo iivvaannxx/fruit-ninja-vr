@@ -52,7 +52,19 @@ You only need to download the game on the [releases page](https://github.com/iiv
 
 ## 🎮 How to Play
 
-### 
+The game mechanics are as simple as they can be. You'll only need to move your controllers to slice the fruits that are throw at you. Let's see how the game works:
+
+### Main Menu
+
+When you open the game, you will be presented with the main menu. From there you only have two options, to start the game or to exit. Your highest score will also be displayed on the screen. Go ahead and press the **"Start Game"** button to start playing.
+
+### Normal Mode
+
+Fruits will start to be thrown at you. First they will come slowly, but as you keep slicing them (more or less every 5 fruits), the time between each fruit will decrease (until a minimum delay of 1 second). If you miss a fruit (it touches the ground without being sliced), the slice will count as a miss. If you miss 10 fruits, the game will be over.
+
+### Rush Mode
+
+To make it a little more fun to play (everyone likes slicing things, right?), I added a Rush Mode. In this mode, a lot (and I mean a lot) of fruits will be thrown at you, approximately during 10 seconds. You will have to slice as many fruits as you can in this time. During this mode, misses **will not count**, so don't worry about missing a fruit. It gets activated completely randomly, you never know when it will happen, neither how many times it will happen during a game.
 
 
 ## 📜 License
